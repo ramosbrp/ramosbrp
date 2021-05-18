@@ -6,14 +6,17 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](bruno.rp45@gmail.com)
 
 <h3>❤ My interests</h3>
-💻 Technology <br>
-📊 Crypto Market <br><br>
 
-<h3>⚡ Top Lenguages<h3>
+  * 💻 Technology <br>
+  * 📊 Crypto Market <br><br>
+
+<h3>⚡ Top Lenguages</h3>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramosbrp)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<h3>🎓  My backgrounds</h3>
+  
+  * Computer engineering student
 
 
 <!--
