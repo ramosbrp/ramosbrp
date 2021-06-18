@@ -12,7 +12,7 @@
 
 <h3>⚡ Top Lenguages</h3>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramosbrp)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramosrp)](https://github.com/anuraghazra/github-readme-stats) 
 
 <h3>🎓  My backgrounds</h3>
   
