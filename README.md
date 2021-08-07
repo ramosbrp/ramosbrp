@@ -1,4 +1,4 @@
-## Oiii! Eu sou Bruno Ramos 
+## I'm Bruno Ramos 
  <div>
   <a href="https://github.com/ramosbrp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramosbrp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
