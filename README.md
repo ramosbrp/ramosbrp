@@ -1,5 +1,5 @@
 ## I'm Bruno Ramos
-site: https://ramos-dev.software/
+site: https://ramos-dev.com/
 
  <div>
   <a href="https://github.com/ramosbrp">
